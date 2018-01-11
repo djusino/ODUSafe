@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_map_black_24dp"
+            android:title="Crime Map" />
+        <item
+            android:id="@+id/nav_crimelog"
+            android:icon="@drawable/ic_attach_file_black_24dp"
+            android:title="Crime Log" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_create_black_24dp"
+            android:title="Report Tips" />
+        <item
+            android:id="@+id/nav_faq"
+            android:icon="@drawable/logo"
+            android:title="FAQ" />
+        <item
+            android:id="@+id/nav_tip_list"
+            android:icon="@drawable/ic_question_answer_black_24dp"
+            android:title="Tip List" />
+        <item
+            android:id="@+id/nav_Crime_Analysis"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="Crime Analysis" />
+        <item
+            android:id="@+id/nav_Panic_Button"
+            android:icon="@android:drawable/ic_dialog_alert"
+            android:title="Panic Button" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_phone_in_talk_black_24dp"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/nav_signout"
+        android:icon="@drawable/ic_close_black_24dp"
+        android:title="Sign Out" />
+
+</menu>

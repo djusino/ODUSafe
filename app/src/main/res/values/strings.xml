@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">ODUSafe</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_login">Login</string>
+    <string name="title_sign">Sign Up</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="title_activity_dashboardhome">ODUSafe</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="logout_from_google">Logout from Google</string>
+    <string name="revoke_access">Revoke Access</string>
+    <string name="title_activity_crimelog">Crime Log</string>
+    <string name="title_activity_crime_map">Crime Map</string>
+
+    <string-array name="event_description">
+        <item>"Lost Bag 1"</item>
+        <item>"Lost Purse 1"</item>
+        <item>"Lost Bag 2"</item>
+        <item>"Lost Purse 2"</item>
+        <item>"Lost Bag 3"</item>
+        <item>"Lost Purse 3"</item>
+        <item>"Lost Bag 4"</item>
+        <item>"Lost Purse 4"</item>
+    </string-array>
+
+    <string-array name="event_time">
+        <item>"10 October 2016"</item>
+        <item>"13 September 2016"</item>
+        <item>"11 October 2016"</item>
+        <item>"14 September 2016"</item>
+        <item>"12 October 2016"</item>
+        <item>"15 September 2016"</item>
+        <item>"13 October 2016"</item>
+        <item>"16 September 2016"</item>
+    </string-array>
+
+    <string name="Suspicous_Person">
+
+        If you witness a person acting in an odd or unusual manner or if a person or situation makes you feel uneasy, trust your instincts and report it.
+            • Remain calm.
+            • DO NOT physically confront the person.
+    </string>
+
+    <string name="What_to_Report">
+        [<![CDATA[
+            What if a person threatens to commit a crime/incident e.g. threatens to assault someone?
+
+            Report all threats, in the same manner you would report an actual crime/incident.
+        ]]>
+
+    </string>
+
+
+    <string name="Off_Campus_Crime">
+        [<![CDATA[
+        Off-Campus
+        If I learn about a crime that took place off campus, do I need to report it to University Police?
+
+        If you learn of a crime that took place off-campus and it involves a student or University-sponsored activity, you should report it, particularly if the crime is sexual assault or relationship violence.
+         ]]>
+    </string>
+
+    <string name="FAQ">
+        1. If you witness a person acting in an odd or unusual manner or if a person or situation makes you feel uneasy, trust your instincts and report it.\n
+
+            • Remain calm.\n
+            • DO NOT physically confront the person.\n\n
+
+        2. What if a person threatens to commit a crime/incident e.g. threatens to assault someone?\n
+
+        Report all threats, in the same manner you would report an actual crime/incident.\n\n
+
+        3. Do I have to report all crimes I witness, like littering, shop-lifting or traffic violations?\n
+
+        Not necessarily.\n\n
+
+        4. If I learn about a crime that took place off campus, do I need to report it to University Police?\n
+
+        If you learn of a crime that took place off-campus and it involves a student or University-sponsored activity, you should report it, particularly if the crime is sexual assault or relationship violence.\n\n
+
+        5. What do I do if I come across a suspicious package?\n
+
+        Contact ODU Public Safety (University Police) Department immediately at 757-683-4000.\n
+           • DO NOT try to open, smell or taste the item!\n
+           • DO NOT shake or bump!\n
+           • DO NOT move package.\n Isolate the item by evacuating the area.\n
+
+    </string>
+    <string name="title_activity_crime__analysis">Crime Analysis</string>
+
+
+</resources>

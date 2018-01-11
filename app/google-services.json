@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "316348784869",
+    "firebase_url": "https://odusafeserver-5b657.firebaseio.com",
+    "project_id": "odusafeserver-5b657",
+    "storage_bucket": "odusafeserver-5b657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316348784869:android:6ee73b0e95c0c5b2",
+        "android_client_info": {
+          "package_name": "com.example.barna.odusafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316348784869-bba9aijpkhc0tuh3beik1hrednk0s4f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barna.odusafe",
+            "certificate_hash": "4b6aa57b1bb57fc657690bd53b8770080fa39e79"
+          }
+        },
+        {
+          "client_id": "316348784869-518pmcp6eu14gugiat14p2eja9tjsqut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-rYfDTcjwPd_va-Y5Ov-tVvlI9WB-HqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316348784869-518pmcp6eu14gugiat14p2eja9tjsqut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

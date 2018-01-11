@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\ODUSafe\app\libs\itextpdf-5.5.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ff7d78e2142e7b0c213b235a6980e34b896896b5">
+        <dex dex="D:\AndroidStudio\ODUSafe\app\build\intermediates\transforms\dex\debug\folders\1000\2\itextpdf-5.5.12_1362ca12005be944e16a58ef61e58235ace545b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kwasimoto\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="D:\AndroidStudio\ODUSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.2.4_e6102a2e8c01d2176171378680b875b1eff50a5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\ODUSafe\app\libs\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="D:\AndroidStudio\ODUSafe\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.10.3_0bb41e1d57a1922bc23834cfc0c0188fdfc23eaf\classes.dex" />
+    </item>
+
+</items>
